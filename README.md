@@ -6,19 +6,19 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  👨‍💼 I am a Junior Full-Stack Developer passionate about developing systems, APIs, websites and applications.
+  👨‍💼 I am a Full-Stack Developer passionate about developing systems, APIs, websites and applications.
 </p>
 <a href="https://www.instagram.com/muriloguerreiroo/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-    💻 Some technologies I like to work with include Node JS, TypeScript, Java, Spring, Hibernate and frameworks of the React ecosystem (Next JS, React Native, Express).
+    💻 Some technologies I like to work with include Java, Spring, Node JS, TypeScript, and frameworks of the React ecosystem (Next JS, React Native, Express).
 </p>
 <a href="https://www.linkedin.com/in/muriloguerreiro/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-    🎓 I am currently finishing my degree in Computer Engineering at Universidade Federal de Uberlândia.
+    🎓 Successfully attained a degree in Computer Engineering from Universidade Federal de Uberlândia.
 </p>
 <hr />
 
